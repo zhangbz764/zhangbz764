@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Baizhou Zhang (张柏洲)</h1>
+  <h2>Baizhou Zhang (张柏洲)</h2>
   <p>Ph.D. Candidate @ School of Architecture, Southeast University</p>
   
   <!-- Badges for quick info -->
@@ -27,9 +27,9 @@ My research aims to synchronize computational technologies with design thinking.
 ### GitHub Stats
 
 <div align="center">
-  <!-- 详细统计数据 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zhangbz764&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <!-- 左侧：常用语言 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangbz764&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
   
-  <!-- 编程语言分布 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangbz764&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <!-- 右侧：详细统计 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zhangbz764&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160"/>
 </div>
